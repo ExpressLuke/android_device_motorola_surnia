@@ -15,4 +15,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_surnia.mk
+    $(LOCAL_DIR)/aosp_surnia.mk
